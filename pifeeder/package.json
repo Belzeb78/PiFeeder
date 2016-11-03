@@ -1,0 +1,23 @@
+{
+  "name": "pifeeder",
+  "version": "1.0.0",
+  "description": "Automate Distributeur de Nourriture pour Nano Aquarium",
+  "main": "index.html",
+  "dependencies": {
+    "semantic-ui": "^2.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Raspberry",
+    "Pi",
+    "Feeder",
+    "Aquarium",
+    "Fish",
+    "automatic"
+  ],
+  "author": "Belz.VgS",
+  "license": "CC-BY-NC-4.0"
+}

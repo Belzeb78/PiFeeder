@@ -1,0 +1,29 @@
+<div class="ui list">
+	<div class="item">
+		<div class="ui fluid  labeled input ">
+			<div class="ui label">Nombre de répétitions:</div>
+			<input correctNumber type="number" ng-model="feeding.nbRepetitions">
+		</div>
+	</div>
+	<div class="item">
+		<div class="ui fluid item labeled input ">
+			<div class="ui label">Temps de pause:</div>
+			<input correctNumber type="number" ng-model="feeding.tempsPause">
+		</div>
+	</div>
+	<div class="item">
+		<div class="ui fluid item labeled input ">
+			<div class="ui label">Angle minimum:</div>
+			<input correctNumber type="number" ng-model="feeding.angleMinimum" min="50" max="195">
+		</div>
+	</div>
+	<div class="item">
+		<div class="ui fluid item labeled input ">
+			<div class="ui label">Angle maximum:</div>
+			<input correctNumber type="number" ng-model="feeding.angleMaximum" min="50" max="195">
+		</div>
+	</div>	
+	<div class="item">
+		<button class="fluid ui black button" ng-click="feed()">Feed</button>
+	</div>
+</div>

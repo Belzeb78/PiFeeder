@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<!--
+  ~ Copyright 2016 Loic Vaugeois
+  ~
+  ~ License CC-BY-NC-4.0
+  ~ PiFeeder by Loic Vaugeois
+  -->
+
+<html ng-app="pifeeder.app">
+<head>
+<title>PiFeeder - Automate distributeur de nourriture</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="Gestion PiFeeder">
+<meta name="keywords" content="Raspberry Pi Zero, Aquarium, Aquascape, Nano Aquarium, Feeder">
+<meta name="author" content="Belz.Vgs">
+<meta charset="UTF-8">
+
+<link rel="icon" type="image/png" href="/web/img/favicon.png" />
+<link rel="stylesheet" type="text/css" href="/web/js/import/semantic/dist/semantic.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/web/css/pifeeder.css">
+</head>
+<body>
+
+
+
+	<div class="ui text container segment" ng-hide="initialized">
+		<div class="ui active large inline spinner centered "></div>
+	</div>
+
+	<div class="ui top fixed inverted pointing menu" ng-show="initialized">
+		<div class="header item">PiFeeder</div>
+		<a class="item" href="/web/index.html#/"> Home </a>
+
+		<div class="right menu">
+			<div class="ui dropdown item">
+				<i class="setting icon"></i><i class="dropdown icon"></i>
+				<div class="menu">
+					<a class="item" href="/web/">Logs</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="ui text container" ng-show="initialized" style="margin-top: 50px">
+		<div class="ui negative message" ng-show="error">
+			<i class="close icon" ng-click="deleteError()"></i>
+			<div class="header">Oops, une erreur est survenue...</div>
+			<p>{{error}}</p>
+		</div>
+		<div ng-view></div>
+	</div>
+
+
+
+
+
+	<script type="text/javascript" src="/web/js/import/angular-locale_fr-fr.js"></script>
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-resource.js"></script>
+
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-route.js"></script>
+	<script src="/web/js/import/semantic/dist/semantic.js"></script>
+	<script type="text/javascript" src="/web/js/app/pifeeder.js"></script>
+</body>
+</html>
+
+</html>
