@@ -28,11 +28,12 @@ Pour cela j'utilise:<br/>
  
 ### Partie mécanique
 ======
-Imprimez ou faites imprimer le boitier; Pour cela je vous fournir le .stl qui correspond à mon distributeur.
-
-Si toutefois votre aquarium était plus grand, la vitre plus épaisse ou que la contenance de mon distributeur est trop petite pour vos besoins, je vous ai mis le fickier .skp sketchup, vous n'avez plus qu'à adapter.
-
-Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry comme suit:
+Imprimez ou faites imprimer le boitier; Pour cela je vous fournir le .stl qui correspond à mon distributeur.<br/>
+<br/>
+Si toutefois votre aquarium était plus grand, la vitre plus épaisse ou que la contenance de mon distributeur est trop petite pour vos<br/> 
+besoins, je vous ai mis le fickier .skp sketchup, vous n'avez plus qu'à adapter.<br/>
+<br/>
+Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry comme suit:<br/>
 >la masse sur une masse du GPIO
 >le + sur un +5v du GPIO
 >le port controle sur le GPIO25
