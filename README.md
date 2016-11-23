@@ -14,12 +14,19 @@ J'ai donc décidé d'en faire un petit et discret, capable de nourrir mes poisso
 de donner de toutes petites portions.<br/>
 <br/>
 Pour cela j'utilise:<br/>
- #    1 Raspberry Pi Zer0      (8€)<br/>
- #    1 ServoMoteur SG90       (2€)<br/>
- #    1 Dongle USB WIFI petit  (2€)<br/>
- #    1 impression 3D PLA      (9€)<br/>
- #   _______________________________<br/>
- #    Total:                  ~ 21€<br/>
+
+ # 1 Raspberry Pi Zer0      (8€)
+ #
+ # 1 ServoMoteur SG90       (2€)
+ #
+ # 1 Dongle USB WIFI petit  (2€)
+ #
+ # 1 impression 3D PLA      (9€)
+ #
+ # _______________________________
+ #
+ # Total:                  ~ 21€
+ 
  <br/>
  L'appli sera développée en Java avec Reslet et AngularJs avec une IHM en SemanticUI.<br/>
  (Ne commencez pas à critiquer mes choix ou bien créez votre propre projet Nerds!)<br/>
