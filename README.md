@@ -13,8 +13,10 @@ Pourquoi me direz-vous? Car ceux du commerce ne correspondaient pas à ce que je
 J'ai donc décidé d'en faire un petit et discret, capable de nourrir mes poissons toute l'année et qui est capable 
 de donner de toutes petites portions.<br/>
 <br/>
+<img src="vue1.jpg" width="150">
 ![De près](vue1.jpg)
 ![De loin](vue2.jpg)
+<br/>
 <br/>
 Pour cela j'utilise:<br/>
 
