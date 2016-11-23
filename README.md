@@ -36,7 +36,9 @@ besoins, je vous ai mis le fickier .skp sketchup, vous n'avez plus qu'à adapter
 Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry comme suit:<br/>
 
 > la masse sur une masse du GPIO
+
 > le + sur un +5v du GPIO
+
 > le port controle sur le GPIO25
 
  
