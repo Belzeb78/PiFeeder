@@ -24,4 +24,8 @@ Pour cela j'utilise:<br/>
  L'appli sera développée en Java avec Reslet et AngularJs avec une IHM en SemanticUI.<br/>
  (Ne commencez pas à critiquer mes choix ou bien créez votre propre projet Nerds!)<br/>
  
+ Commençons:
+ 
+ ### Partie Mécanique:
+ 
  
