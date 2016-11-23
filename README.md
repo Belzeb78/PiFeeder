@@ -46,7 +46,7 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 > le port controle sur le GPIO25
 
-<img src="plan_branchement.jpg" width="500">
+<img src="plan_branchement.png" width="500">
 
 
  
