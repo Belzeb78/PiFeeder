@@ -45,4 +45,5 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 ![Branchez comme suit](plan_branchement.png)
 
+
  
