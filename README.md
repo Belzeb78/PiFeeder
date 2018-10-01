@@ -15,13 +15,13 @@ So I decided to create a small and discret robot, able to feed my fishes all yea
 This is the result of my experimentation:
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/vue1.jpg" width="300"><img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/vue2.jpg" width="300">
 
-Required stuff:<br/>
+Required stuff:
 
- # 1 Raspberry Pi Zer0      (8€)  <br/>
- # 1 ServoMoteur SG90       (2€)  <br/>
- # 1 Dongle USB WIFI petit  (2€)  <br/>
- # 1 impression 3D PLA      (9€)  <br/>
- # _______________________________ <br/>
+ 1. 1x Raspberry Pi Zer0      (8€)
+ 2. 1x ServoMoteur SG90       (2€)
+ 3. 1 Dongle USB WIFI petit  (2€)
+ 4. 1 impression 3D PLA      (9€)
+ _______________________________ <br/>
  # Total:                  ~ 21€<br/>
  
  <br/>
@@ -101,6 +101,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzY5NDcyMyw2MDc4NTUyNTgsLTg2Nj
-YxNjY1OF19
+eyJoaXN0b3J5IjpbMjg4NTQ5ODU5LDYwNzg1NTI1OCwtODY2Nj
+E2NjU4XX0=
 -->
