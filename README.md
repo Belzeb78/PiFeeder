@@ -13,7 +13,7 @@ Pourquoi me direz-vous? Car ceux du commerce ne correspondaient pas à ce que je
 J'ai donc décidé d'en faire un petit et discret, capable de nourrir mes poissons toute l'année et qui est capable 
 de donner de toutes petites portions.<br/>
 <br/>
-<img src="vue1.jpg" width="300"><img src="vue2.jpg" width="300">
+<img src="pictures\vue1.jpg" width="300"><img src="pictures\vue2.jpg" width="300">
 <br/>
 <br/>
 Pour cela j'utilise:<br/>
@@ -46,7 +46,4 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 > le port controle sur le GPIO25
 
-<img src="plan_branchement.png" width="500">
-
-
- 
+<img src="pictures\plan_branchement.png" width="500">
