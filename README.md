@@ -24,8 +24,8 @@ Required stuff:
 		Total:                  	~21€
  
  <br/>
- The software L'appli sera développée en Java avec Reslet et AngularJs avec une IHM en SemanticUI.<br/>
- (Ne commencez pas à critiquer mes choix ou bien créez votre propre projet Nerds!)<br/>
+ The software is developped in Java with Reslet, AngularJs and SemanticUI as frontend.<br/>
+<br/>
  
  Commençons:
  
@@ -100,6 +100,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTg5MzIyMSw2MDc4NTUyNTgsLTg2Nj
-YxNjY1OF19
+eyJoaXN0b3J5IjpbNjA4MjgwNDkwLDEyODU4OTMyMjEsNjA3OD
+U1MjU4LC04NjY2MTY2NThdfQ==
 -->
