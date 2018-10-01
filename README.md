@@ -25,7 +25,7 @@ Required stuff:
  
  <br/>
  The software is developped in Java with Reslet, AngularJs and SemanticUI as frontend.<br/>
-<br/>
+*Don't criticize my framework choice, your're free to develop your own...*
  
  Commençons:
  
@@ -100,6 +100,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4MjgwNDkwLDEyODU4OTMyMjEsNjA3OD
-U1MjU4LC04NjY2MTY2NThdfQ==
+eyJoaXN0b3J5IjpbLTE4NTc2NjE4NDQsMTI4NTg5MzIyMSw2MD
+c4NTUyNTgsLTg2NjYxNjY1OF19
 -->
