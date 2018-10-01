@@ -42,10 +42,7 @@ Screw the servo motor SG90 in is place and screw the food tank to this.
 Plug the wires like that:
  - SG90 ground to GPIO ground (Pin 6 by example)
  - SG90 +5V to GPIO +5V (Pin 2)
- - SG90 control wire to the GPIO pin 25
-> le + sur un +5v du GPIO
-> le port controle sur le GPIO25
-
+ - SG90 control wire to the GPIO Pin 25
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 
 
@@ -102,6 +99,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTEwNzE5MzMsMTI4NTg5MzIyMSw2MD
-c4NTUyNTgsLTg2NjYxNjY1OF19
+eyJoaXN0b3J5IjpbMTUyMTQ3MDIxLDEyODU4OTMyMjEsNjA3OD
+U1MjU4LC04NjY2MTY2NThdfQ==
 -->
