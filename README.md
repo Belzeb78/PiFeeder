@@ -19,7 +19,7 @@ This is the result of my experimentation:
 Required stuff:
 
 	 1. 1x Raspberry Pi Zer0      	(8€)
-	 2. 1x ServoMotor SG90			(2€)	 
+	 2. 1x ServoMotor SG90		(2€)	 
 	 3. 1 impression 3D PLA      	(9€)
 	 _____________________________________
 		Total:                  	~21€
@@ -111,5 +111,5 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE0NDc5MF19
+eyJoaXN0b3J5IjpbLTE5ODg5NzU3NDIsLTIwNzE0NDc5MF19
 -->
