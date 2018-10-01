@@ -24,12 +24,12 @@ Required stuff:
 		Total:                  	~21€
  
  <br/>
- The software is developped in Java with Reslet, AngularJs and SemanticUI as frontend.<br/>
-*Don't criticize my framework choice, your're free to develop your own...*
+ The software is developed in Java with Reslet, AngularJs and SemanticUI as front end.<br/>
+_Don't criticize my framework choice, your're free to develop your own..._
  
- Commençons:
+## Detailed description:
  
-### Partie mécanique
+### Mechanic part
 ======
 Imprimez ou faites imprimer le boitier; Pour cela je vous fournir le .stl qui correspond à mon distributeur.<br/>
 <br/>
@@ -100,6 +100,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc2NjE4NDQsMTI4NTg5MzIyMSw2MD
-c4NTUyNTgsLTg2NjYxNjY1OF19
+eyJoaXN0b3J5IjpbMjA0OTk5MjAwNCwxMjg1ODkzMjIxLDYwNz
+g1NTI1OCwtODY2NjE2NjU4XX0=
 -->
