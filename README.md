@@ -52,11 +52,11 @@ Plug the wires like that:
  2. Add the jar file you compile (or take [here](https://github.com/Belzeb78/PiFeeder/blob/master/compiled/pifeeder.jar))
  3. Create a service from ([here](https://github.com/Belzeb78/PiFeeder/blob/master/services/pifeeder))
 
+
 I hope it will help you. 
-Feel free to contact me if you need some precisions.
+Feel free to contact me if you need some clarifications.
 
-
-
+--BelZ--
 
 ## Version Française:
 
@@ -79,12 +79,12 @@ de donner de toutes petites portions.<br/>
 <br/>
 Pour cela j'utilise:<br/>
 
- # 1 Raspberry Pi Zer0      (8€)  <br/>
- # 1 ServoMoteur SG90       (2€)  <br/>
- # 1 Dongle USB WIFI petit  (2€)  <br/>
- # 1 impression 3D PLA      (9€)  <br/>
- # _______________________________ <br/>
- # Total:                  ~ 21€<br/>
+- 1 Raspberry Pi Zer0      (8€)  <br/>
+- 1 ServoMoteur SG90       (2€)  <br/>
+- 1 Dongle USB WIFI petit  (2€)  <br/>
+- 1 impression 3D PLA      (9€)  <br/>
+- _______________________________ <br/>
+- Total:                  ~ 21€<br/>
  
  <br/>
  L'appli sera développée en Java avec Reslet et AngularJs avec une IHM en SemanticUI.<br/>
@@ -109,5 +109,5 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxMjgzNTE0LDE1NTI5NzY2NjJdfQ==
+eyJoaXN0b3J5IjpbLTM3NDQ5NjgyNSwxNTUyOTc2NjYyXX0=
 -->
