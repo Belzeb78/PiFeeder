@@ -17,15 +17,14 @@ This is the result of my experimentation:
 
 Required stuff:
 
-	 1. 1x Raspberry Pi Zer0      (8€)
-	 2. 1x ServoMotor SG90 (2€)
-	 3. 1x Dongle USB WIFI petit  (2€)
-	 4. 1 impression 3D PLA      (9€)
-	 _______________________________
-		Total:                  ~ 21€
+	 1. 1x Raspberry Pi Zer0      	(8€)
+	 2. 1x ServoMotor SG90			(2€)	 
+	 3. 1 impression 3D PLA      	(9€)
+	 _____________________________________
+		Total:                  	~21€
  
  <br/>
- L'appli sera développée en Java avec Reslet et AngularJs avec une IHM en SemanticUI.<br/>
+ The software L'appli sera développée en Java avec Reslet et AngularJs avec une IHM en SemanticUI.<br/>
  (Ne commencez pas à critiquer mes choix ou bien créez votre propre projet Nerds!)<br/>
  
  Commençons:
@@ -101,6 +100,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MjE5MTk3LDYwNzg1NTI1OCwtODY2Nj
-E2NjU4XX0=
+eyJoaXN0b3J5IjpbMTI4NTg5MzIyMSw2MDc4NTUyNTgsLTg2Nj
+YxNjY1OF19
 -->
