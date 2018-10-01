@@ -45,8 +45,8 @@ Plug the wires like that:
  - SG90 control wire to the GPIO Pin 25
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 
+### Software installation:
 
-<hr>
 
 ## Version Française:
 
@@ -99,6 +99,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTQ3MDIxLDEyODU4OTMyMjEsNjA3OD
-U1MjU4LC04NjY2MTY2NThdfQ==
+eyJoaXN0b3J5IjpbLTEyOTQzMzQ1OTksMTUyMTQ3MDIxLDEyOD
+U4OTMyMjEsNjA3ODU1MjU4LC04NjY2MTY2NThdfQ==
 -->
