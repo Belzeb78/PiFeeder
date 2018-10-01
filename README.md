@@ -1,9 +1,9 @@
 # PiFeeder (for fish) Project
-<br/>
+
 Description: <br/>
-<br/>
-Projet de distributeur de nourriture automatique pour poisson, orienté Nano-Aquarium.<br/>
-Pourquoi me direz-vous? Car ceux du commerce ne correspondaient pas à ce que je recherchais:<br/>
+
+Fish Feeder autobot project, designed for Nano-FishTank.<br/>
+Why? CCar ceux du commerce ne correspondaient pas à ce que je recherchais:<br/>
 <br/>
 -Ils sont trop gros pour un nano.<br/>
 -Donnent de trop grosse portions (pour la plupart).<br/>
@@ -50,7 +50,8 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 
 <hr>
-###Version Française:
+
+## Version Française:
 
 <br/>
 Description: <br/>
@@ -101,6 +102,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzNjIyMDU1LDYwNzg1NTI1OCwtODY2Nj
-E2NjU4XX0=
+eyJoaXN0b3J5IjpbLTE4MDI3Njc4MDcsNjA3ODU1MjU4LC04Nj
+Y2MTY2NThdfQ==
 -->
