@@ -48,7 +48,9 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 
+
 <hr>
+###Version Française:
 
 <br/>
 Description: <br/>
@@ -99,6 +101,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDM2MTAzMiw2MDc4NTUyNTgsLTg2Nj
-YxNjY1OF19
+eyJoaXN0b3J5IjpbMzYzNjIyMDU1LDYwNzg1NTI1OCwtODY2Nj
+E2NjU4XX0=
 -->
