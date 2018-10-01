@@ -48,9 +48,12 @@ Plug the wires like that:
 
 ### Software installation:
 
- 1. Install ServoBlaster (By RichardGhirst): https://github.com/richardghirst/PiBits/tree/master/ServoBlaster
- 2. Add the jar file you compile (or take [here](https://github.com/Belzeb78/PiFeeder/blob/master/compiled/pifeeder.jar))
- 3. Create a service from ([here](https://github.com/Belzeb78/PiFeeder/blob/master/services/pifeeder))
+ 1. Connect your PiZer0 to your wifi network
+ 2. Install ServoBlaster (By RichardGhirst): https://github.com/richardghirst/PiBits/tree/master/ServoBlaster
+ 3. Add the jar file you compile (or take [here](https://github.com/Belzeb78/PiFeeder/blob/master/compiled/pifeeder.jar))
+ 4. Create a service from ([here](https://github.com/Belzeb78/PiFeeder/blob/master/services/pifeeder))
+ 5. Consult the interface at: 
+	 YourPiIP:8000/index.html
 
 
 I hope it will help you. 
@@ -108,5 +111,5 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM0OTE4NTMsMTU1Mjk3NjY2Ml19
+eyJoaXN0b3J5IjpbLTIwNzE0NDc5MCwxNTUyOTc2NjYyXX0=
 -->
