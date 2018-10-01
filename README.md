@@ -33,6 +33,9 @@ _Don't criticize my framework choice, your're free to develop your own..._
 ======
 I created the 3d plan on Sketchup, feel free to adapt it to your fish tank; I provide you my .stl file  [here](https://github.com/Belzeb78/PiFeeder/blob/master/3d_print/fishfeeder.stl).
 
+![
+](https://github.com/Belzeb78/PiFeeder/raw/master/pictures/Pifeeder.png)
+![enter image description here](https://github.com/Belzeb78/PiFeeder/raw/master/pictures/Print_pic.png)
 
 
 
@@ -103,6 +106,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzQ2ODU2LDEyODU4OTMyMjEsNjA3OD
-U1MjU4LC04NjY2MTY2NThdfQ==
+eyJoaXN0b3J5IjpbLTE0NTE4MzA0MSwxMjg1ODkzMjIxLDYwNz
+g1NTI1OCwtODY2NjE2NjU4XX0=
 -->
