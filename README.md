@@ -14,8 +14,7 @@ So I decided to create a small and discret robot, able to feed my fishes all yea
 
 This is the result of my experimentation:
 
-<img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/vue1.jpg" width="300">
-<img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/vue2.jpg" width="300">
+<img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/vue1.jpg" width="300"><img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/vue2.jpg" width="300">
 
 Required stuff:
 
@@ -106,5 +105,5 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDgwNzgwNF19
+eyJoaXN0b3J5IjpbMTU1Mjk3NjY2MiwtMjYwODA3ODA0XX0=
 -->
