@@ -31,8 +31,11 @@ _Don't criticize my framework choice, your're free to develop your own..._
  
 ### Mechanic part
 ======
-I created the 3d plan on Sketchup, feel free to adapt it to your fish tank; Pour cela je vous fournir le .stl qui correspond à mon distributeur.<br/>
-<br/>
+I created the 3d plan on Sketchup, feel free to adapt it to your fish tank; I provide you my .stl file  [here](https://github.com/Belzeb78/PiFeeder/blob/master/3d_print/fishfeeder.stl).<br/>
+
+
+
+
 Si toutefois votre aquarium était plus grand, la vitre plus épaisse ou que la contenance de mon distributeur est trop petite pour vos<br/> 
 besoins, je vous ai mis le fickier .skp sketchup, vous n'avez plus qu'à adapter.<br/>
 <br/>
@@ -100,6 +103,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjgxOTY3MDUsMTI4NTg5MzIyMSw2MD
-c4NTUyNTgsLTg2NjYxNjY1OF19
+eyJoaXN0b3J5IjpbNTU1ODA2NDI5LDEyODU4OTMyMjEsNjA3OD
+U1MjU4LC04NjY2MTY2NThdfQ==
 -->
