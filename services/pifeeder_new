@@ -1,0 +1,108 @@
+#!/bin/bash
+
+### BEGIN INIT INFO
+# Provides:                 PiFeeder
+# Required-Start:           $local_fs $syslog
+# Required-Stop:            $java 
+# Short-Description:        Managing PiFeeder service.
+# Description:              Start, stop, restart the PiFeeder Service
+# Date-Creation:            -
+# Date-Last-Modification:   -
+# Author:                   Loic VAUGEOIS
+### END INIT INFO
+
+# Variables
+SERVICE_NAME=PiFeeder
+EXECUTING_PATH=/home/pi/java/
+JAR=pifeeder.jar
+PID_PATH_NAME=/tmp/PiFeeder-pid
+
+# Start the PiFeeder
+start() {
+    echo "Starting PiFeeder..."
+    #Verify if the service is running
+    $PGREP -f PiFeeder > /dev/null
+    VERIFIER=$?
+    if [ $ZERO = $VERIFIER ]
+    then
+        echo "The service is already running"
+    else
+        #Run the jar file PiFeeder service
+        cd $EXECUTING_PATH && sudo nohup java -jar $EXECUTING_PATH$JAR >> /dev/null /tmp 2>> /dev/null &
+        #sleep time before the service verification
+        sleep 10
+        #Verify if the service is running
+        $PGREP -f PiFeeder  > /dev/null
+        VERIFIER=$?
+        if [ $ZERO = $VERIFIER ]
+        then
+            echo "Service was successfully started"
+        else
+            echo "Failed to start service"
+        fi
+    fi
+    echo
+}
+
+# Stop the PiFeeder
+stop() {
+    echo "Stopping PiFeeder..."
+    #Verify if the service is running
+    $PGREP -f PiFeeder > /dev/null
+    VERIFIER=$?
+    if [ $ZERO = $VERIFIER ]
+    then
+        #Kill the pid of java with the service name
+        kill -9 $($PGREP -f PiFeeder)
+        #Sleep time before the service verification
+        sleep 10
+        #Verify if the service is running
+        $PGREP -f PiFeeder  > /dev/null
+        VERIFIER=$?
+        if [ $ZERO = $VERIFIER ]
+        then
+            echo "Failed to stop service"
+        else
+            echo "Service was successfully stopped"
+        fi
+    else
+        echo "The service is already stopped"
+    fi
+    echo
+}
+
+# Verify the status of PiFeeder
+status() {
+    echo "Checking status of PiFeeder..."
+    #Verify if the service is running
+    $PGREP -f PiFeeder > /dev/null
+    VERIFIER=$?
+    if [ $ZERO = $VERIFIER ]
+    then
+        echo "Service is running"
+    else
+        echo "Service is stopped"
+    fi
+    echo
+}
+
+# Main logic
+case "$1" in
+    start)
+        start
+        ;;
+    stop)
+        stop
+        ;;
+    status)
+        status
+        ;;
+    restart|reload)
+        stop
+        start
+        ;;
+  *)
+    echo $"Usage of PiFeeder: $0 {start|stop|status|restart|reload}"
+    exit 1
+esac
+exit 0
