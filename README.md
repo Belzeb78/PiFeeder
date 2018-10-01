@@ -13,7 +13,9 @@ Why? Cause commercial one doesn't match with my need:<br/>
 So I decided to create a small and discret robot, able to feed my fishes all year long with a configurable portion of food.
 
 This is the result of my experimentation:
-<img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/vue1.jpg" width="300"><img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/vue2.jpg" width="300">
+
+<img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/vue1.jpg" width="300">
+<img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/vue2.jpg" width="300">
 
 Required stuff:
 
@@ -104,7 +106,7 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwMjE1OTQwLC0xMjk0MzM0NTk5LDE1Mj
-E0NzAyMSwxMjg1ODkzMjIxLDYwNzg1NTI1OCwtODY2NjE2NjU4
-XX0=
+eyJoaXN0b3J5IjpbLTI2MDgwNzgwNCw5MzAyMTU5NDAsLTEyOT
+QzMzQ1OTksMTUyMTQ3MDIxLDEyODU4OTMyMjEsNjA3ODU1MjU4
+LC04NjY2MTY2NThdfQ==
 -->
