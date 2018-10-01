@@ -9,15 +9,13 @@ Why? Cause commercial one doesn't match with my need:<br/>
  - they deliver too much food
  - they are oriented for "holidays usage" (I want feed my fishes only by this way)
  - they are ugly!
-So I decided to create a small and discret robot, able to fee
 
-J'ai donc décidé d'en faire un petit et discret, capable de nourrir mes poissons toute l'année et qui est capable 
-de donner de toutes petites portions.<br/>
-<br/>
+So I decided to create a small and discret robot, able to feed my fishes all year long with a configurable portion of food.
+
+This is the result of my experimentation:
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/vue1.jpg" width="300"><img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/vue2.jpg" width="300">
-<br/>
-<br/>
-Pour cela j'utilise:<br/>
+
+Required stuff:<br/>
 
  # 1 Raspberry Pi Zer0      (8€)  <br/>
  # 1 ServoMoteur SG90       (2€)  <br/>
@@ -103,6 +101,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTkxMzQzMCw2MDc4NTUyNTgsLTg2Nj
+eyJoaXN0b3J5IjpbMjA4MzY5NDcyMyw2MDc4NTUyNTgsLTg2Nj
 YxNjY1OF19
 -->
