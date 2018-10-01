@@ -7,14 +7,10 @@ Why? Cause commercial one doesn't match with my need:<br/>
 
  - they're too large for a nano fish tank
  - they deliver too much food
- - they are oriented for "holidays usage"
- - t
+ - they are oriented for "holidays usage" (I want feed my fishes only by this way)
+ - they are ugly!
+So I decided to create a small and discret robot, able to fee
 
--Ils sont trop gros pour un nano.<br/>
--Donnent de trop grosse portions (pour la plupart).<br/>
--Sont moches.<br/>
--Sont fait pour les vacances (ne correspondent pas forcément à un usage journalier. Oui je suis aquariophile mais surtout fainéant...)<br/>
-<br/>
 J'ai donc décidé d'en faire un petit et discret, capable de nourrir mes poissons toute l'année et qui est capable 
 de donner de toutes petites portions.<br/>
 <br/>
@@ -107,6 +103,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzgxMzYxNDYsNjA3ODU1MjU4LC04Nj
-Y2MTY2NThdfQ==
+eyJoaXN0b3J5IjpbMjA4NTkxMzQzMCw2MDc4NTUyNTgsLTg2Nj
+YxNjY1OF19
 -->
