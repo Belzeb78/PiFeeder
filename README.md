@@ -40,7 +40,8 @@ I created the 3d plan on Sketchup, feel free to adapt it to your fish tank; I pr
 How to mount it:
 Screw the servo motor SG90 in is place and screw the food tank to this.
 Plug the wires like that:
- - SG90 earth on GPIO earth 
+ - SG90 ground on GPIO ground (Pin 6 by example)
+ - 
 > le + sur un +5v du GPIO
 > le port controle sur le GPIO25
 
@@ -100,6 +101,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjA4OTEwNywxMjg1ODkzMjIxLDYwNz
+eyJoaXN0b3J5IjpbLTcwMDg2NDYxOSwxMjg1ODkzMjIxLDYwNz
 g1NTI1OCwtODY2NjE2NjU4XX0=
 -->
