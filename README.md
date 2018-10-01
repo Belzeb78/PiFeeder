@@ -47,6 +47,11 @@ Plug the wires like that:
 
 ### Software installation:
 
+ 1. Install ServoBlaster (By RichardGhirst): https://github.com/richardghirst/PiBits/tree/master/ServoBlaster
+ 2. Add the jar file you compil
+
+
+
 
 ## Version Française:
 
@@ -99,6 +104,7 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQzMzQ1OTksMTUyMTQ3MDIxLDEyOD
-U4OTMyMjEsNjA3ODU1MjU4LC04NjY2MTY2NThdfQ==
+eyJoaXN0b3J5IjpbMTUxNzIwMzAyOCwtMTI5NDMzNDU5OSwxNT
+IxNDcwMjEsMTI4NTg5MzIyMSw2MDc4NTUyNTgsLTg2NjYxNjY1
+OF19
 -->
