@@ -24,14 +24,14 @@ Required stuff:
 		Total:                  	~21€
  
  <br/>
- The software is developed in Java with Reslet, AngularJs and SemanticUI as front end.<br/>
+ The software is developed in Java with Reslet, AngularJs and SemanticUI as frontend.<br/>
 _Don't criticize my framework choice, your're free to develop your own..._
  
 ## Detailed description:
  
 ### Mechanic part
 ======
-Imprimez ou faites imprimer le boitier; Pour cela je vous fournir le .stl qui correspond à mon distributeur.<br/>
+I created the 3d plan on Sketchup, feel free to adapt it to your fish tank; Pour cela je vous fournir le .stl qui correspond à mon distributeur.<br/>
 <br/>
 Si toutefois votre aquarium était plus grand, la vitre plus épaisse ou que la contenance de mon distributeur est trop petite pour vos<br/> 
 besoins, je vous ai mis le fickier .skp sketchup, vous n'avez plus qu'à adapter.<br/>
@@ -100,6 +100,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTk5MjAwNCwxMjg1ODkzMjIxLDYwNz
-g1NTI1OCwtODY2NjE2NjU4XX0=
+eyJoaXN0b3J5IjpbLTEzNjgxOTY3MDUsMTI4NTg5MzIyMSw2MD
+c4NTUyNTgsLTg2NjYxNjY1OF19
 -->
