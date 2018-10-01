@@ -5,7 +5,10 @@ Description: <br/>
 Fish Feeder autobot project, designed for Nano-FishTank.<br/>
 Why? Cause commercial one doesn't match with my need:<br/>
 
- - they're too large for 
+ - they're too large for a nano fish tank
+ - they deliver too much food
+ - they are oriented for "holidays usage"
+ - t
 
 -Ils sont trop gros pour un nano.<br/>
 -Donnent de trop grosse portions (pour la plupart).<br/>
@@ -104,6 +107,6 @@ Visez le ServoMoteur à son emplacement, et brancher les 3 fils au Raspberry com
 
 <img src="https://github.com/Belzeb78/PiFeeder/raw/master/pictures/plan_branchement.png" width="500">
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzEzMzQyMjMsNjA3ODU1MjU4LC04Nj
+eyJoaXN0b3J5IjpbLTIwNzgxMzYxNDYsNjA3ODU1MjU4LC04Nj
 Y2MTY2NThdfQ==
 -->
